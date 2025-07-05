@@ -1,0 +1,539 @@
+insert 1 6188764
+insert 2 5013858
+insert 3 5672489
+insert 4 9766714
+insert 5 1795114
+insert 6 5802981
+insert 7 5641460
+insert 8 7289350
+insert 9 2446852
+insert 10 3339265
+insert 11 9442136
+insert 12 4327400
+insert 13 9822450
+insert 14 8221498
+insert 15 4557754
+insert 16 4781944
+insert 17 2054153
+insert 18 5273154
+insert 19 5589286
+insert 20 3045824
+insert 21 1082933
+insert 22 9594100
+insert 23 5522728
+insert 24 1157949
+insert 25 1455078
+insert 26 4888490
+insert 27 8311021
+insert 28 5157826
+insert 29 733996
+insert 30 7974779
+insert 31 4749916
+insert 32 7004653
+insert 33 4679693
+insert 34 5229967
+insert 35 7710213
+insert 36 946964
+insert 37 2495796
+insert 38 5124488
+insert 39 1205445
+delete 19
+delete 20
+delete 21
+delete 22
+delete 23
+delete 24
+delete 25
+delete 26
+delete 27
+insert 40 3506616
+insert 41 2505370
+insert 42 4095341
+insert 43 7915571
+insert 44 5619851
+insert 45 1996347
+insert 46 5540619
+insert 47 5066223
+insert 48 3222651
+height
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+get 10
+get 11
+get 12
+get 13
+get 14
+get 15
+get 16
+get 17
+get 18
+get 28
+get 29
+get 30
+get 31
+get 32
+get 33
+get 34
+get 35
+get 36
+get 37
+get 38
+get 39
+get 40
+get 41
+get 42
+get 43
+get 44
+get 45
+get 46
+get 47
+get 48
+delete 28
+delete 29
+delete 30
+delete 31
+delete 32
+delete 33
+delete 34
+delete 35
+delete 36
+insert 49 1450905
+insert 50 1366674
+insert 51 9729111
+insert 52 7590284
+insert 53 4740082
+insert 54 7133730
+insert 55 5249929
+insert 56 1449066
+insert 57 866425
+height
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+get 10
+get 11
+get 12
+get 13
+get 14
+get 15
+get 16
+get 17
+get 18
+get 37
+get 38
+get 39
+get 40
+get 41
+get 42
+get 43
+get 44
+get 45
+get 46
+get 47
+get 48
+get 49
+get 50
+get 51
+get 52
+get 53
+get 54
+get 55
+get 56
+get 57
+delete 37
+delete 38
+delete 39
+delete 40
+delete 41
+delete 42
+delete 43
+delete 44
+delete 45
+insert 58 4008651
+insert 59 3109884
+insert 60 4708071
+insert 61 8531964
+insert 62 2810395
+insert 63 7937033
+insert 64 697712
+insert 65 5883816
+insert 66 3738971
+height
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+get 10
+get 11
+get 12
+get 13
+get 14
+get 15
+get 16
+get 17
+get 18
+get 46
+get 47
+get 48
+get 49
+get 50
+get 51
+get 52
+get 53
+get 54
+get 55
+get 56
+get 57
+get 58
+get 59
+get 60
+get 61
+get 62
+get 63
+get 64
+get 65
+get 66
+delete 46
+delete 47
+delete 48
+delete 49
+delete 50
+delete 51
+delete 52
+delete 53
+delete 54
+insert 67 952338
+insert 68 3092471
+insert 69 4711490
+insert 70 6736214
+insert 71 5776645
+insert 72 863090
+insert 73 2654924
+insert 74 3913442
+insert 75 3281235
+height
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+get 10
+get 11
+get 12
+get 13
+get 14
+get 15
+get 16
+get 17
+get 18
+get 55
+get 56
+get 57
+get 58
+get 59
+get 60
+get 61
+get 62
+get 63
+get 64
+get 65
+get 66
+get 67
+get 68
+get 69
+get 70
+get 71
+get 72
+get 73
+get 74
+get 75
+delete 55
+delete 56
+delete 57
+delete 58
+delete 59
+delete 60
+delete 61
+delete 62
+delete 63
+insert 76 7520951
+insert 77 8488605
+insert 78 5455845
+insert 79 7702343
+insert 80 8129613
+insert 81 9928051
+insert 82 8274569
+insert 83 3514829
+insert 84 5325419
+height
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+get 10
+get 11
+get 12
+get 13
+get 14
+get 15
+get 16
+get 17
+get 18
+get 64
+get 65
+get 66
+get 67
+get 68
+get 69
+get 70
+get 71
+get 72
+get 73
+get 74
+get 75
+get 76
+get 77
+get 78
+get 79
+get 80
+get 81
+get 82
+get 83
+get 84
+delete 64
+delete 65
+delete 66
+delete 67
+delete 68
+delete 69
+delete 70
+delete 71
+delete 72
+insert 85 7223509
+insert 86 9971761
+insert 87 598380
+insert 88 1070389
+insert 89 8376002
+insert 90 4445849
+insert 91 438448
+insert 92 40982
+insert 93 6212909
+height
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+get 10
+get 11
+get 12
+get 13
+get 14
+get 15
+get 16
+get 17
+get 18
+get 73
+get 74
+get 75
+get 76
+get 77
+get 78
+get 79
+get 80
+get 81
+get 82
+get 83
+get 84
+get 85
+get 86
+get 87
+get 88
+get 89
+get 90
+get 91
+get 92
+get 93
+delete 73
+delete 74
+delete 75
+delete 76
+delete 77
+delete 78
+delete 79
+delete 80
+delete 81
+insert 94 207281
+insert 95 7267320
+insert 96 2577718
+insert 97 8596080
+insert 98 4279190
+insert 99 5807753
+insert 100 18339
+insert 101 6727740
+insert 102 9523256
+height
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+get 10
+get 11
+get 12
+get 13
+get 14
+get 15
+get 16
+get 17
+get 18
+get 82
+get 83
+get 84
+get 85
+get 86
+get 87
+get 88
+get 89
+get 90
+get 91
+get 92
+get 93
+get 94
+get 95
+get 96
+get 97
+get 98
+get 99
+get 100
+get 101
+get 102
+delete 82
+delete 83
+delete 84
+delete 85
+delete 86
+delete 87
+delete 88
+delete 89
+delete 90
+insert 103 7243003
+insert 104 3172709
+insert 105 3787120
+insert 106 180201
+insert 107 7827025
+insert 108 7171117
+insert 109 7393533
+insert 110 104331
+insert 111 2766645
+height
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+get 10
+get 11
+get 12
+get 13
+get 14
+get 15
+get 16
+get 17
+get 18
+get 91
+get 92
+get 93
+get 94
+get 95
+get 96
+get 97
+get 98
+get 99
+get 100
+get 101
+get 102
+get 103
+get 104
+get 105
+get 106
+get 107
+get 108
+get 109
+get 110
+get 111
+delete 91
+delete 92
+delete 93
+delete 94
+delete 95
+delete 96
+delete 97
+delete 98
+delete 99
+insert 112 1384939
+insert 113 7750025
+insert 114 4306730
+insert 115 8064463
+insert 116 3510844
+insert 117 4148519
+insert 118 2211048
+insert 119 1287698
+insert 120 7687241
+height
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+get 10
+get 11
+get 12
+get 13
+get 14
+get 15
+get 16
+

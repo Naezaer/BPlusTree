@@ -1,0 +1,1306 @@
+insert 1 4884003: 0
+insert 2 9455121: 0
+insert 3 3064989: 0
+insert 4 9589400: 0
+insert 5 9545922: 0
+insert 6 7973506: 0
+insert 7 9128969: 0
+insert 8 4693778: 0
+insert 9 2875773: 0
+delete 4: 0
+delete 5: 0
+delete 6: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 7: 9128969
+get 8: 4693778
+get 9: 2875773
+insert 10 6332038: 0
+insert 11 5507172: 0
+insert 12 1466407: 0
+delete 7: 0
+delete 8: 0
+delete 9: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 10: 6332038
+get 11: 5507172
+get 12: 1466407
+insert 13 2293276: 0
+insert 14 5168589: 0
+insert 15 5681823: 0
+delete 10: 0
+delete 11: 0
+delete 12: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 13: 2293276
+get 14: 5168589
+get 15: 5681823
+insert 16 2275557: 0
+insert 17 4241744: 0
+insert 18 3453906: 0
+delete 13: 0
+delete 14: 0
+delete 15: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 16: 2275557
+get 17: 4241744
+get 18: 3453906
+insert 19 8355468: 0
+insert 20 9057308: 0
+insert 21 4831535: 0
+delete 16: 0
+delete 17: 0
+delete 18: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 19: 8355468
+get 20: 9057308
+get 21: 4831535
+insert 22 9184813: 0
+insert 23 4703415: 0
+insert 24 4133082: 0
+delete 19: 0
+delete 20: 0
+delete 21: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 22: 9184813
+get 23: 4703415
+get 24: 4133082
+insert 25 5836183: 0
+insert 26 7941293: 0
+insert 27 8741699: 0
+delete 22: 0
+delete 23: 0
+delete 24: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 25: 5836183
+get 26: 7941293
+get 27: 8741699
+insert 28 3613002: 0
+insert 29 7636996: 0
+insert 30 3604005: 0
+delete 25: 0
+delete 26: 0
+delete 27: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 28: 3613002
+get 29: 7636996
+get 30: 3604005
+insert 31 2418638: 0
+insert 32 9631493: 0
+insert 33 8119301: 0
+delete 28: 0
+delete 29: 0
+delete 30: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 31: 2418638
+get 32: 9631493
+get 33: 8119301
+insert 34 3002220: 0
+insert 35 8746719: 0
+insert 36 3736453: 0
+delete 31: 0
+delete 32: 0
+delete 33: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 34: 3002220
+get 35: 8746719
+get 36: 3736453
+insert 37 3762075: 0
+insert 38 3616746: 0
+insert 39 5816674: 0
+delete 34: 0
+delete 35: 0
+delete 36: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 37: 3762075
+get 38: 3616746
+get 39: 5816674
+insert 40 349652: 0
+insert 41 1641115: 0
+insert 42 1345809: 0
+delete 37: 0
+delete 38: 0
+delete 39: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 40: 349652
+get 41: 1641115
+get 42: 1345809
+insert 43 8324096: 0
+insert 44 2184135: 0
+insert 45 7990365: 0
+delete 40: 0
+delete 41: 0
+delete 42: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 43: 8324096
+get 44: 2184135
+get 45: 7990365
+insert 46 5096897: 0
+insert 47 5467870: 0
+insert 48 8290876: 0
+delete 43: 0
+delete 44: 0
+delete 45: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 46: 5096897
+get 47: 5467870
+get 48: 8290876
+insert 49 3939160: 0
+insert 50 7935740: 0
+insert 51 9618112: 0
+delete 46: 0
+delete 47: 0
+delete 48: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 49: 3939160
+get 50: 7935740
+get 51: 9618112
+insert 52 7442885: 0
+insert 53 8602479: 0
+insert 54 5028085: 0
+delete 49: 0
+delete 50: 0
+delete 51: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 52: 7442885
+get 53: 8602479
+get 54: 5028085
+insert 55 9829998: 0
+insert 56 1130615: 0
+insert 57 6276946: 0
+delete 52: 0
+delete 53: 0
+delete 54: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 55: 9829998
+get 56: 1130615
+get 57: 6276946
+insert 58 906687: 0
+insert 59 7319835: 0
+insert 60 228050: 0
+delete 55: 0
+delete 56: 0
+delete 57: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 58: 906687
+get 59: 7319835
+get 60: 228050
+insert 61 6960876: 0
+insert 62 635480: 0
+insert 63 1388132: 0
+delete 58: 0
+delete 59: 0
+delete 60: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 61: 6960876
+get 62: 635480
+get 63: 1388132
+insert 64 4859455: 0
+insert 65 917246: 0
+insert 66 4559651: 0
+delete 61: 0
+delete 62: 0
+delete 63: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 64: 4859455
+get 65: 917246
+get 66: 4559651
+insert 67 3417014: 0
+insert 68 3763956: 0
+insert 69 1162844: 0
+delete 64: 0
+delete 65: 0
+delete 66: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 67: 3417014
+get 68: 3763956
+get 69: 1162844
+insert 70 5274123: 0
+insert 71 1658211: 0
+insert 72 8286042: 0
+delete 67: 0
+delete 68: 0
+delete 69: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 70: 5274123
+get 71: 1658211
+get 72: 8286042
+insert 73 3995668: 0
+insert 74 5118833: 0
+insert 75 5468561: 0
+delete 70: 0
+delete 71: 0
+delete 72: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 73: 3995668
+get 74: 5118833
+get 75: 5468561
+insert 76 318962: 0
+insert 77 4368987: 0
+insert 78 9766463: 0
+delete 73: 0
+delete 74: 0
+delete 75: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 76: 318962
+get 77: 4368987
+get 78: 9766463
+insert 79 6228235: 0
+insert 80 3303504: 0
+insert 81 1546299: 0
+delete 76: 0
+delete 77: 0
+delete 78: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 79: 6228235
+get 80: 3303504
+get 81: 1546299
+insert 82 7415630: 0
+insert 83 3102350: 0
+insert 84 326965: 0
+delete 79: 0
+delete 80: 0
+delete 81: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 82: 7415630
+get 83: 3102350
+get 84: 326965
+insert 85 1478585: 0
+insert 86 969532: 0
+insert 87 8683543: 0
+delete 82: 0
+delete 83: 0
+delete 84: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 85: 1478585
+get 86: 969532
+get 87: 8683543
+insert 88 1719288: 0
+insert 89 6412106: 0
+insert 90 8671940: 0
+delete 85: 0
+delete 86: 0
+delete 87: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 88: 1719288
+get 89: 6412106
+get 90: 8671940
+insert 91 7095408: 0
+insert 92 8996353: 0
+insert 93 5197976: 0
+delete 88: 0
+delete 89: 0
+delete 90: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 91: 7095408
+get 92: 8996353
+get 93: 5197976
+insert 94 6959808: 0
+insert 95 6404813: 0
+insert 96 3333185: 0
+delete 91: 0
+delete 92: 0
+delete 93: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 94: 6959808
+get 95: 6404813
+get 96: 3333185
+insert 97 4094897: 0
+insert 98 2152628: 0
+insert 99 9818580: 0
+delete 94: 0
+delete 95: 0
+delete 96: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 97: 4094897
+get 98: 2152628
+get 99: 9818580
+insert 100 4811963: 0
+insert 101 1240556: 0
+insert 102 7739697: 0
+delete 97: 0
+delete 98: 0
+delete 99: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 100: 4811963
+get 101: 1240556
+get 102: 7739697
+insert 103 2036144: 0
+insert 104 1516522: 0
+insert 105 5405841: 0
+delete 100: 0
+delete 101: 0
+delete 102: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 103: 2036144
+get 104: 1516522
+get 105: 5405841
+insert 106 4772149: 0
+insert 107 3136546: 0
+insert 108 6624657: 0
+delete 103: 0
+delete 104: 0
+delete 105: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 106: 4772149
+get 107: 3136546
+get 108: 6624657
+insert 109 4740402: 0
+insert 110 7246923: 0
+insert 111 3444264: 0
+delete 106: 0
+delete 107: 0
+delete 108: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 109: 4740402
+get 110: 7246923
+get 111: 3444264
+insert 112 5504027: 0
+insert 113 1651282: 0
+insert 114 9478859: 0
+delete 109: 0
+delete 110: 0
+delete 111: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 112: 5504027
+get 113: 1651282
+get 114: 9478859
+insert 115 5224755: 0
+insert 116 8865276: 0
+insert 117 4061069: 0
+delete 112: 0
+delete 113: 0
+delete 114: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 115: 5224755
+get 116: 8865276
+get 117: 4061069
+insert 118 7074744: 0
+insert 119 1986427: 0
+insert 120 4054158: 0
+delete 115: 0
+delete 116: 0
+delete 117: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 118: 7074744
+get 119: 1986427
+get 120: 4054158
+insert 121 7045799: 0
+insert 122 1208582: 0
+insert 123 4495910: 0
+delete 118: 0
+delete 119: 0
+delete 120: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 121: 7045799
+get 122: 1208582
+get 123: 4495910
+insert 124 6971688: 0
+insert 125 2781306: 0
+insert 126 9392281: 0
+delete 121: 0
+delete 122: 0
+delete 123: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 124: 6971688
+get 125: 2781306
+get 126: 9392281
+insert 127 7112817: 0
+insert 128 9119521: 0
+insert 129 1542358: 0
+delete 124: 0
+delete 125: 0
+delete 126: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 127: 7112817
+get 128: 9119521
+get 129: 1542358
+insert 130 2522496: 0
+insert 131 6673787: 0
+insert 132 9399210: 0
+delete 127: 0
+delete 128: 0
+delete 129: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 130: 2522496
+get 131: 6673787
+get 132: 9399210
+insert 133 2496502: 0
+insert 134 9847207: 0
+insert 135 5014008: 0
+delete 130: 0
+delete 131: 0
+delete 132: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 133: 2496502
+get 134: 9847207
+get 135: 5014008
+insert 136 9276718: 0
+insert 137 627489: 0
+insert 138 974605: 0
+delete 133: 0
+delete 134: 0
+delete 135: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 136: 9276718
+get 137: 627489
+get 138: 974605
+insert 139 7669756: 0
+insert 140 2408619: 0
+insert 141 4973046: 0
+delete 136: 0
+delete 137: 0
+delete 138: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 139: 7669756
+get 140: 2408619
+get 141: 4973046
+insert 142 1584556: 0
+insert 143 6017436: 0
+insert 144 8323496: 0
+delete 139: 0
+delete 140: 0
+delete 141: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 142: 1584556
+get 143: 6017436
+get 144: 8323496
+insert 145 5057195: 0
+insert 146 7386594: 0
+insert 147 4725206: 0
+delete 142: 0
+delete 143: 0
+delete 144: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 145: 5057195
+get 146: 7386594
+get 147: 4725206
+insert 148 8756713: 0
+insert 149 6765784: 0
+insert 150 2303673: 0
+delete 145: 0
+delete 146: 0
+delete 147: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 148: 8756713
+get 149: 6765784
+get 150: 2303673
+insert 151 4312876: 0
+insert 152 8889422: 0
+insert 153 9249237: 0
+delete 148: 0
+delete 149: 0
+delete 150: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 151: 4312876
+get 152: 8889422
+get 153: 9249237
+insert 154 9852094: 0
+insert 155 4221237: 0
+insert 156 333936: 0
+delete 151: 0
+delete 152: 0
+delete 153: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 154: 9852094
+get 155: 4221237
+get 156: 333936
+insert 157 647063: 0
+insert 158 8751961: 0
+insert 159 841572: 0
+delete 154: 0
+delete 155: 0
+delete 156: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 157: 647063
+get 158: 8751961
+get 159: 841572
+insert 160 577098: 0
+insert 161 3347173: 0
+insert 162 9294907: 0
+delete 157: 0
+delete 158: 0
+delete 159: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 160: 577098
+get 161: 3347173
+get 162: 9294907
+insert 163 601556: 0
+insert 164 288954: 0
+insert 165 4347303: 0
+delete 160: 0
+delete 161: 0
+delete 162: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 163: 601556
+get 164: 288954
+get 165: 4347303
+insert 166 4471274: 0
+insert 167 2924828: 0
+insert 168 3468771: 0
+delete 163: 0
+delete 164: 0
+delete 165: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 166: 4471274
+get 167: 2924828
+get 168: 3468771
+insert 169 5495540: 0
+insert 170 286635: 0
+insert 171 3333270: 0
+delete 166: 0
+delete 167: 0
+delete 168: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 169: 5495540
+get 170: 286635
+get 171: 3333270
+insert 172 5387282: 0
+insert 173 2844617: 0
+insert 174 4010723: 0
+delete 169: 0
+delete 170: 0
+delete 171: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 172: 5387282
+get 173: 2844617
+get 174: 4010723
+insert 175 6532271: 0
+insert 176 9169411: 0
+insert 177 9906822: 0
+delete 172: 0
+delete 173: 0
+delete 174: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 175: 6532271
+get 176: 9169411
+get 177: 9906822
+insert 178 9777779: 0
+insert 179 9078044: 0
+insert 180 4712457: 0
+delete 175: 0
+delete 176: 0
+delete 177: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 178: 9777779
+get 179: 9078044
+get 180: 4712457
+insert 181 6315695: 0
+insert 182 2412643: 0
+insert 183 5546544: 0
+delete 178: 0
+delete 179: 0
+delete 180: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 181: 6315695
+get 182: 2412643
+get 183: 5546544
+insert 184 57894: 0
+insert 185 970768: 0
+insert 186 8263170: 0
+delete 181: 0
+delete 182: 0
+delete 183: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 184: 57894
+get 185: 970768
+get 186: 8263170
+insert 187 9806361: 0
+insert 188 3403662: 0
+insert 189 5268994: 0
+delete 184: 0
+delete 185: 0
+delete 186: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 187: 9806361
+get 188: 3403662
+get 189: 5268994
+insert 190 4152129: 0
+insert 191 8583715: 0
+insert 192 1773355: 0
+delete 187: 0
+delete 188: 0
+delete 189: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 190: 4152129
+get 191: 8583715
+get 192: 1773355
+insert 193 2964306: 0
+insert 194 1767638: 0
+insert 195 6300075: 0
+delete 190: 0
+delete 191: 0
+delete 192: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 193: 2964306
+get 194: 1767638
+get 195: 6300075
+insert 196 1605961: 0
+insert 197 9533685: 0
+insert 198 7262176: 0
+delete 193: 0
+delete 194: 0
+delete 195: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 196: 1605961
+get 197: 9533685
+get 198: 7262176
+insert 199 913658: 0
+insert 200 697836: 0
+insert 201 7451594: 0
+delete 196: 0
+delete 197: 0
+delete 198: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 199: 913658
+get 200: 697836
+get 201: 7451594
+insert 202 357617: 0
+insert 203 2674179: 0
+insert 204 479050: 0
+delete 199: 0
+delete 200: 0
+delete 201: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 202: 357617
+get 203: 2674179
+get 204: 479050
+insert 205 8055155: 0
+insert 206 2323892: 0
+insert 207 1756195: 0
+delete 202: 0
+delete 203: 0
+delete 204: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 205: 8055155
+get 206: 2323892
+get 207: 1756195
+insert 208 2315336: 0
+insert 209 8856138: 0
+insert 210 5933555: 0
+delete 205: 0
+delete 206: 0
+delete 207: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 208: 2315336
+get 209: 8856138
+get 210: 5933555
+insert 211 6151104: 0
+insert 212 6067270: 0
+insert 213 9431397: 0
+delete 208: 0
+delete 209: 0
+delete 210: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 211: 6151104
+get 212: 6067270
+get 213: 9431397
+insert 214 4240013: 0
+insert 215 6681098: 0
+insert 216 2123799: 0
+delete 211: 0
+delete 212: 0
+delete 213: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 214: 4240013
+get 215: 6681098
+get 216: 2123799
+insert 217 5628811: 0
+insert 218 7839085: 0
+insert 219 27779: 0
+delete 214: 0
+delete 215: 0
+delete 216: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 217: 5628811
+get 218: 7839085
+get 219: 27779
+insert 220 8258859: 0
+insert 221 536848: 0
+insert 222 5863453: 0
+delete 217: 0
+delete 218: 0
+delete 219: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 220: 8258859
+get 221: 536848
+get 222: 5863453
+insert 223 415946: 0
+insert 224 260060: 0
+insert 225 9645154: 0
+delete 220: 0
+delete 221: 0
+delete 222: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 223: 415946
+get 224: 260060
+get 225: 9645154
+insert 226 2562323: 0
+insert 227 3238374: 0
+insert 228 5408096: 0
+delete 223: 0
+delete 224: 0
+delete 225: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 226: 2562323
+get 227: 3238374
+get 228: 5408096
+insert 229 5889039: 0
+insert 230 3546332: 0
+insert 231 9496662: 0
+delete 226: 0
+delete 227: 0
+delete 228: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 229: 5889039
+get 230: 3546332
+get 231: 9496662
+insert 232 5688452: 0
+insert 233 5271641: 0
+insert 234 9420715: 0
+delete 229: 0
+delete 230: 0
+delete 231: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 232: 5688452
+get 233: 5271641
+get 234: 9420715
+insert 235 7536759: 0
+insert 236 9669323: 0
+insert 237 579388: 0
+delete 232: 0
+delete 233: 0
+delete 234: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 235: 7536759
+get 236: 9669323
+get 237: 579388
+insert 238 552760: 0
+insert 239 6907300: 0
+insert 240 995039: 0
+delete 235: 0
+delete 236: 0
+delete 237: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 238: 552760
+get 239: 6907300
+get 240: 995039
+insert 241 8334573: 0
+insert 242 5291825: 0
+insert 243 259558: 0
+delete 238: 0
+delete 239: 0
+delete 240: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 241: 8334573
+get 242: 5291825
+get 243: 259558
+insert 244 7444173: 0
+insert 245 9195348: 0
+insert 246 4840857: 0
+delete 241: 0
+delete 242: 0
+delete 243: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 244: 7444173
+get 245: 9195348
+get 246: 4840857
+insert 247 4320620: 0
+insert 248 1600673: 0
+insert 249 9925065: 0
+delete 244: 0
+delete 245: 0
+delete 246: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 247: 4320620
+get 248: 1600673
+get 249: 9925065
+insert 250 1936727: 0
+insert 251 8455715: 0
+insert 252 6924378: 0
+delete 247: 0
+delete 248: 0
+delete 249: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 250: 1936727
+get 251: 8455715
+get 252: 6924378
+insert 253 8058547: 0
+insert 254 7825173: 0
+insert 255 4237281: 0
+delete 250: 0
+delete 251: 0
+delete 252: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 253: 8058547
+get 254: 7825173
+get 255: 4237281
+insert 256 6030649: 0
+insert 257 1184183: 0
+insert 258 2869018: 0
+delete 253: 0
+delete 254: 0
+delete 255: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 256: 6030649
+get 257: 1184183
+get 258: 2869018
+insert 259 503686: 0
+insert 260 6084415: 0
+insert 261 7710801: 0
+delete 256: 0
+delete 257: 0
+delete 258: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 259: 503686
+get 260: 6084415
+get 261: 7710801
+insert 262 3739428: 0
+insert 263 6447607: 0
+insert 264 8263555: 0
+delete 259: 0
+delete 260: 0
+delete 261: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 262: 3739428
+get 263: 6447607
+get 264: 8263555
+insert 265 433526: 0
+insert 266 5727848: 0
+insert 267 1778895: 0
+delete 262: 0
+delete 263: 0
+delete 264: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 265: 433526
+get 266: 5727848
+get 267: 1778895
+insert 268 3681117: 0
+insert 269 535232: 0
+insert 270 7323667: 0
+delete 265: 0
+delete 266: 0
+delete 267: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 268: 3681117
+get 269: 535232
+get 270: 7323667
+insert 271 9171151: 0
+insert 272 3174838: 0
+insert 273 2027851: 0
+delete 268: 0
+delete 269: 0
+delete 270: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 271: 9171151
+get 272: 3174838
+get 273: 2027851
+insert 274 8105227: 0
+insert 275 2021572: 0
+insert 276 880974: 0
+delete 271: 0
+delete 272: 0
+delete 273: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 274: 8105227
+get 275: 2021572
+get 276: 880974
+insert 277 1898301: 0
+insert 278 2968515: 0
+insert 279 9228235: 0
+delete 274: 0
+delete 275: 0
+delete 276: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 277: 1898301
+get 278: 2968515
+get 279: 9228235
+insert 280 762719: 0
+insert 281 3108128: 0
+insert 282 891451: 0
+delete 277: 0
+delete 278: 0
+delete 279: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 280: 762719
+get 281: 3108128
+get 282: 891451
+insert 283 335086: 0
+insert 284 4689104: 0
+insert 285 7653138: 0
+delete 280: 0
+delete 281: 0
+delete 282: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 283: 335086
+get 284: 4689104
+get 285: 7653138
+insert 286 2154949: 0
+insert 287 7968606: 0
+insert 288 5090055: 0
+delete 283: 0
+delete 284: 0
+delete 285: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 286: 2154949
+get 287: 7968606
+get 288: 5090055
+insert 289 8083650: 0
+insert 290 6824142: 0
+insert 291 4911450: 0
+delete 286: 0
+delete 287: 0
+delete 288: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 289: 8083650
+get 290: 6824142
+get 291: 4911450
+insert 292 7088336: 0
+insert 293 8734415: 0
+insert 294 5806439: 0
+delete 289: 0
+delete 290: 0
+delete 291: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 292: 7088336
+get 293: 8734415
+get 294: 5806439
+insert 295 9167062: 0
+insert 296 1779743: 0
+insert 297 3971392: 0
+delete 292: 0
+delete 293: 0
+delete 294: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 295: 9167062
+get 296: 1779743
+get 297: 3971392
+insert 298 7034304: 0
+insert 299 2239631: 0
+insert 300 8723797: 0
+delete 295: 0
+delete 296: 0
+delete 297: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 298: 7034304
+get 299: 2239631
+get 300: 8723797
+insert 301 8149110: 0
+insert 302 4260726: 0
+insert 303 8170742: 0
+delete 298: 0
+delete 299: 0
+delete 300: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 301: 8149110
+get 302: 4260726
+get 303: 8170742
+insert 304 1895615: 0
+insert 305 414014: 0
+insert 306 5947452: 0
+delete 301: 0
+delete 302: 0
+delete 303: 0
+height: 2
+get 1: 4884003
+get 2: 9455121
+get 3: 3064989
+get 304: 1895615
+get 305: 414014
+get 306: 5947452

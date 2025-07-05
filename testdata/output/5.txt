@@ -1,0 +1,68 @@
+insert 1 2705322: 0
+insert 2 4732567: 0
+insert 3 8994177: 0
+insert 6 7488417: 0
+insert 7 3135702: 0
+insert 8 972244: 0
+insert 11 6157559: 0
+insert 12 2314497: 0
+insert 13 868331: 0
+insert 16 2999142: 0
+insert 17 125372: 0
+insert 18 8757981: 0
+insert 4 3481981: 0
+insert 5 6993532: 0
+insert 9 442831: 0
+insert 10 7198415: 0
+insert 14 7214498: 0
+insert 15 4461451: 0
+insert 19 38112: 0
+insert 20 6637674: 0
+delete 1: 0
+delete 2: 0
+get 1: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+get 2: -1
+delete 7: 0
+delete 9: 0
+get 7: -1
+get 9: -1
+delete 11: 0
+delete 12: 0
+get 11: -1
+get 12: -1
+insert 11 3539277: 0
+insert 12 5260546: 0
+get 11: 3539277
+get 12: 5260546
+get 3: 8994177
+get 4: 3481981
+get 5: 6993532
+get 6: 7488417
+get 8: 972244
+get 10: 7198415
+get 13: 868331
+get 14: 7214498
+get 15: 4461451
+get 16: 2999142
+get 17: 125372
+get 18: 8757981
+get 19: 38112
+get 20: 6637674

@@ -1,0 +1,68 @@
+insert 1 2705322
+insert 2 4732567
+insert 3 8994177
+insert 6 7488417
+insert 7 3135702
+insert 8 972244
+insert 11 6157559
+insert 12 2314497
+insert 13 868331
+insert 16 2999142
+insert 17 125372
+insert 18 8757981
+insert 4 3481981
+insert 5 6993532
+insert 9 442831
+insert 10 7198415
+insert 14 7214498
+insert 15 4461451
+insert 19 38112
+insert 20 6637674
+delete 1
+delete 2
+get 1
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+get 2
+delete 7
+delete 9
+get 7
+get 9
+delete 11
+delete 12
+get 11
+get 12
+insert 11 3539277
+insert 12 5260546
+get 11
+get 12
+get 3
+get 4
+get 5
+get 6
+get 8
+get 10
+get 13
+get 14
+get 15
+get 16
+get 17
+get 18
+get 19
+get 20
